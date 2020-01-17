@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/Users/antoine/Documents/01-PRO/blog/20200116_avec_sans_contact/images/17012020-cb.jpg "></p>
+<img src="https://github.com/agiret/kooleko_blog/blob/master/20200116_avec_sans_contact/images/17012020-cb.jpg?raw=true"></p>
 
 
 # "Avec sans contact ?"
