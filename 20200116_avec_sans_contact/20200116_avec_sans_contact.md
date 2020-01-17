@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/agiret/kooleko_blog/blob/master/20200116_avec_sans_contact/images/17012020-cb.jpg?raw=true"></p>
+<img src="https://github.com/agiret/kooleko_blog/blob/master/20200116_avec_sans_contact/images/17012020-cb.jpg?raw=true" width=640>
+</p>
 
 
 # "Avec sans contact ?"
@@ -7,26 +8,21 @@
 ---
 *Au moment de payer à la boulangerie, avez-vous ressenti comme moi un hic dans la désormais fameuse question : "Avec sans contact ?"*
 
-*Au-delà de l'intérêt ou de la véritable utilité du dispositif ; il y'a un sérieux problème de "design terminologique" !*
-
-*Et que se cache-t-il derrière cette technologie à priori inoffensive ?*
-
-*Un sujet assurément "pas important" mais symptomatique de notre société actuelle par certains égards : une innovation par (pour ?) la technologie et sans réel soucis de l'utilité ou de la véritable amélioration sociétale engendrée...??*
+*Au-delà de l'intérêt ou de la véritable utilité du dispositif : un sérieux problème de "design terminologique" !*
 
 ---
 
 
-En 2017, 44% des dispositifs de paiement par carte en France étaient compatibles avec le mode "sans contact" tandis que 71% des cartes bancaires en circulation intégraient déjà la technologie [wikipedia].
+En 2017, 44% des dispositifs de paiement par carte en France étaient compatibles avec le mode "sans contact" tandis que 71% des cartes bancaires en circulation intégraient déjà la technologie [1].
 
 **Ce qui ne va pas**
 
 Souvenez-vous : alors que vous hésitez encore sur le nombre de baguettes à prévoir pour le repas du soir et qu'au moment de payer le boulanger vous interpelle par un bref mais très convaincu "Avec sans contact !?"
 
-Ca sent à plein nez le problème des questions négatives et des réponses impossibles par "oui" ou "non" qui n'indique jamais ce qu'on veut dire... alors qu'en fait ça n'en a que l'odeur : c'est le "sans", qui créé, en première intention, une sorte de dissonance/biais cognitive(f)) très perturbant... vous ne pensez-pas ?
+Ca sent à plein nez le problème des questions négatives et des réponses impossibles par "oui" ou "non" qui n'indique jamais ce qu'on veut dire... alors qu'en fait ça n'en a que l'odeur : c'est le "sans", qui créé, en première intention, une sorte de dissonance/biais cognitive(f)) très perturbant... vous "*ne pensez-pas*" ?
 
-Le positionnement de l'Académie française me semble assez juste :
-Source : [Wikipedia] (https://fr.wikipedia.org/wiki/Paiement_sans_contact) :
-"L'Académie française a relevé le caractère paradoxal de l'appellation "sans contact" pour désigner un procédé qui permet, au contraire, un paiement par simple contact, plutôt que par insertion. La désignation correcte serait donc "paiement par contact" ou "paiement sans insertion". En effet, une étude menée par MasterCard a montré que 92,6 % des utilisateurs de moyens de paiement dits "sans contact" avaient acquis le réflexe de poser la carte sur le lecteur et non de la tenir à distance, donc "sans contact" au sens propre."
+Le positionnement de l'Académie française me semble assez juste [2] :
+> "L'Académie française a relevé le caractère paradoxal de l'appellation "sans contact" pour désigner un procédé qui permet, au contraire, un paiement par simple contact, plutôt que par insertion. La désignation correcte serait donc "paiement par contact" ou "paiement sans insertion". En effet, une étude menée par MasterCard a montré que 92,6 % des utilisateurs de moyens de paiement dits "sans contact" avaient acquis le réflexe de poser la carte sur le lecteur et non de la tenir à distance, donc "sans contact" au sens propre."
 
 A force d'entrainement et de répétition de l'exercice "question-réponse-action", l'habitude et les automatismes finissent pas prendre peu à peu le dessus et le geste devient chaque jours de plus en plus naturel (surtout de moins en moins non naturel !).
 
@@ -75,3 +71,13 @@ En revanche, accepter la disparition de la monnaie fiduciaire ne nous offre pas 
 ---
 
 ... il faut que je pense à retirer du liquide !
+
+
+Sources : 
+[1] http://www.mercatel.info/page-317-base-documentaire.html
+[2] [Wikipedia : paiement sans contact] (https://fr.wikipedia.org/wiki/Paiement_sans_contact)
+
+--
+
+Dernière mise à jour : 17/01/2020.
+
