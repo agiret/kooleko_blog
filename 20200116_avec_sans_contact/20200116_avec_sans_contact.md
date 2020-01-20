@@ -15,37 +15,36 @@
 
 En 2017, 44% des dispositifs de paiement par carte en France étaient compatibles avec le mode "sans contact" tandis que 71% des cartes bancaires en circulation intégraient déjà la technologie [1].
 
-**Ce qui ne va pas**
+## Ce qui ne va pas
 
 Souvenez-vous : alors que vous hésitez encore sur le nombre de baguettes à prévoir pour le repas du soir et qu'au moment de payer le boulanger vous interpelle par un bref mais très convaincu "Avec sans contact !?"
 
-Ca sent à plein nez le problème des questions négatives et des réponses impossibles par "oui" ou "non" qui n'indique jamais ce qu'on veut dire... alors qu'en fait ça n'en a que l'odeur : c'est le "sans", qui créé, en première intention, une sorte de dissonance/biais cognitive(f)) très perturbant... vous "*ne pensez-pas*" ?
+Ca sent à plein nez le problème des questions négatives et des réponses impossibles par "oui" ou "non" qui n'indique jamais ce qu'on veut dire... alors qu'en fait ça n'en a que l'odeur : c'est le "sans", qui créé, en première intention, une sorte de biais cognitif assez perturbant... vous "*ne trouvez pas*" ?
 
 Le positionnement de l'Académie française me semble assez juste [2] :
 > "L'Académie française a relevé le caractère paradoxal de l'appellation "sans contact" pour désigner un procédé qui permet, au contraire, un paiement par simple contact, plutôt que par insertion. La désignation correcte serait donc "paiement par contact" ou "paiement sans insertion". En effet, une étude menée par MasterCard a montré que 92,6 % des utilisateurs de moyens de paiement dits "sans contact" avaient acquis le réflexe de poser la carte sur le lecteur et non de la tenir à distance, donc "sans contact" au sens propre."
 
-A force d'entrainement et de répétition de l'exercice "question-réponse-action", l'habitude et les automatismes finissent pas prendre peu à peu le dessus et le geste devient chaque jours de plus en plus naturel (surtout de moins en moins non naturel !).
+A force d'entrainement et de répétition de l'exercice "question-réponse-action", l'habitude et les automatismes finissent pas prendre peu à peu le dessus et la question "avec sans contact ?" devient chaque jour de plus en plus naturelle (surtout de moins en moins non naturelle !)... et finira certainement par ne plus choquer personne malgré cette contradiction flagrante.
 
 Mais pouvait-on imaginer un autre terme simple et un peu plus pertinent ?
 
-**Propositions d'alternative ?**
+## Proposition d'alternatives
 
-Du coup on pourrait peut-être renverser la phrase et parler directement de la technologie en jeu plutôt de ce qu'elle n'est pas ?
-La techno = Near Field Communication ou "NFC" --> "paiement NFC" ?
+Par exemple, à la place de "paiement sans contact", on pourrait parler directement de la technologie en jeu (Near Field Communication ou "NFC") : "paiement NFC" ? Ouais... bof, un peu trop techno !
 
-Mais pour aller plus loin vous remarquerez que "Paiement sans contact" ou "Paiement XX" = raisonnements en terme de moyen.
-Si on répondait simplement à la question "Pourquoi" (à quoi ça nous est utile ? - on y vient quand même finalement ;-) ) = 
+Et si, plutôt que de raisonner en terme de moyen (avec/sans contact, NFC...), on répondait simplement à la question "Pourquoi" - à quoi ça nous est utile ? (on y vient quand même finalement ;-) ) :
 
 - à ne pas à avoir à retenir son code ? --> "paiement poisson rouge" ?
-- ne pas à avoir à taper son code ? --> "paiement/débit direct" ?
-- à payer plus rapidement ? --> "paiement express" ou "facile" ?
+- ne pas à avoir à taper son code ? --> "paiement direct" ?
+- à payer plus rapidement ? --> "paiement express" ou "paiement facile" ?
 - à ne pas manipuler de monnaie ? --> "paiement sans monnaie" ?
 - ...
 
 
-**A quoi ça sert finalement?**
+## A quoi et à qui ça sert finalement ?
 
-- gagner du temps ?
+Ce dont on peut être certain, c'est que si ce dispositif a été mis en place, ce n'est uniquement pour faciliter la vie des consommateurs mais bien principalement parce que des acteurs y trouvent un intérêt particulier. 
+
 - à nous faire consommer plus ? moins visuel d'entendre un monotone et unique "biiip" que de voir son porte monnaie se vider de ses pièces.
 - banques : commission à chaque transaction
 - "En outre, banques et commerçants espèrent améliorer la connaissance des habitudes des consommateurs, pour développer un marketing personnalisé. « Le paiement sans contact permet de faire entrer la logique du paiement en ligne dans les commerces de proximité», confirme Bruno de Laage, président du GIE Cartes Bancaires." (https://www.lesechos.fr/2015/04/bercy-veut-accelerer-le-passage-aux-paiements-sans-contact-257916)
@@ -79,5 +78,5 @@ Sources :
 
 --
 
-Dernière mise à jour : 17/01/2020.
+*Dernière mise à jour : 17/01/2020.*
 
